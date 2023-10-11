@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		App con svelkit por OS
 	</h1>
 
 	<h2>
